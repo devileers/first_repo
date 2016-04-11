@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+my $first = 'first';
+say "$first\n";
+exit;
